@@ -42,10 +42,10 @@ tools = [
 ]
 
 def get_stock_price(symbol: str):
-    # Realtime API logic replaces dummy data
+    # API call here
     prices = {"AAPL": 174.2, "TSLA": 259.3}
     return {"symbol": symbol, "price": prices.get(symbol, "N/A")}
 
 ```
 
-#### Define more tools with the JSON schema 😆
+
