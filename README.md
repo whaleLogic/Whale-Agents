@@ -1,6 +1,8 @@
-# AI Agents 🤖 with OpenAI 🧰 Tool Calling
+#  🤖 Agents and Tools 🧰
 
-### This repository contains basic AI agents built using the OpenAI API
+## Contents 
+
+#### 🗿 Prebuilt AI agents and tools constructed using various methods, SDK's and libraries including 🥽 GoogleAI, 🔗 LangChain, 🦙 Llama Index OpenAI API.
 
 📦 Getting Started
 
@@ -11,11 +13,11 @@
 ```bash
 pip install -r requirements.txt
 ```
-㊙️ Create a .env file with your API key:
+#### Create a .env file with your API key:
 ```
 OPENAI_API_KEY=sk-xxxxxx
 ```
-3. Run an example
+#### ⚗️ Run an example 🦙
 ```
 python examples/stock_agent.py
 ```
